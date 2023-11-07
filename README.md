@@ -1,2 +1,3 @@
 # text-utlity-web-application
-TextUtils: A versatile text utility for case conversion, space removal, and more. Get word/char counts and switch between light and dark modes.
+TextUtils is a utility application which is used to manipulate your text the way you want. Whether you want to convert text to uppercase or lowercase, remove extra spaces, or copy text to the clipboard, TextUtils has you covered. Additionally, the application lets you quickly clear the text area to start anew. Beyond text manipulation, TextUtils also provides text statistics, including word and character counts, as well as an estimated reading time. It offers a seamless experience with the option to switch between light and dark modes. TextUtils is the modern, responsive, and versatile tool you need for all your text-processing requirements.
+
