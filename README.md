@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# text-utlity-web-application
+TextUtils is a utility application which is used to manipulate your text the way you want. Whether you want to convert text to uppercase or lowercase, remove extra spaces, or copy text to the clipboard, TextUtils has you covered. Additionally, the application lets you quickly clear the text area to start anew. Beyond text manipulation, TextUtils also provides text statistics, including word and character counts, as well as an estimated reading time. It offers a seamless experience with the option to switch between light and dark modes. TextUtils is the modern, responsive, and versatile tool you need for all your text-processing requirements.
+
+>>>>>>> 5c895d7ade2c2472b88819ba06eca4aa2fd039e8
